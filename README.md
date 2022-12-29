@@ -1,6 +1,6 @@
 <h1 align='center'> 👋 Welcome Woo Hyeon's github 👋
 
-<h3 align="center"> 📚 Tech Stack 
+<h2 align="center"> 📚 Tech Stack 
 
 
 <h2 align='center'><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
