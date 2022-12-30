@@ -1,23 +1,10 @@
-# <center>👋 Welcome Woo Hyeon's github 👋 </center> 
-
-## <center> 📚 **Tech Stack** </center> 
-
-
-## <center> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></center>  
-
-
-## <center> 📝 **What I learned?**</center> 
-### <center> Deep learning/Machine Learning </center> 
-
-### <center>  Data Mining  </center> 
-
-
-## <center> 😊 **Follow Me**</center> 
-
-
-## <center><a href="mailto:whddmldnffla@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whddmldnffla@gmail.com"/></center> 
-
-## <center> ✈️ **Goal** 
-
-
-### <center> Backend Developer </center> 
+<h1 align =center>👋 Welcome Woo Hyeon's github 👋 
+<h2 align =center> 📚 Tech Stack
+<h2 align =center> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<h2 align =center> 📝 What I learned? 
+<h3 align =center> Deep learning/Machine Learning 
+<h3 align =center>  Data Mining 
+<h2 align =center> 😊 Follow Me
+<h2 align =center><a href="mailto:whddmldnffla@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whddmldnffla@gmail.com"/>
+<h2 align =center> ✈️ Goal
+<h3 align =center>Backend Developer  
