@@ -8,4 +8,4 @@
 <h4 align =center><a href="mailto:whddmldnffla@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=whddmldnffla@gmail.com"/></a>
 
 <h3 align =center> ✈️Goal </a>
-<h4 align =center> Data Analyist </a>
+<h4 align =center> Data Analyst </a>
